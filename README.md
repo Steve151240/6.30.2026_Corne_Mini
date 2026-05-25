@@ -1,3 +1,5 @@
+
+Check out my stores for keyboards.  keyboardhoarders.com
 ## I added the mouse layer but you will need to add a layer change in zmk studio or edit directly to get there.
 
 
